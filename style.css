@@ -6,3 +6,13 @@ header {
 body {
   margin: 0px;
 }
+<<<<<<< HEAD
+=======
+.main-wrap {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  background-color: #e39;
+  height: 1000px;
+}
+>>>>>>> fed1f9143e13063e4a4931485e5e1fa62771edb3
