@@ -1,5 +1,9 @@
 header {
-  min-height: 190px;
+  min-height: 100px;
   min-width: 100%;
   background-color: #444;
 }
+body {
+  margin: 0px;
+}
+.
