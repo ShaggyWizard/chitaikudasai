@@ -1,13 +1,12 @@
 header {
-  min-height: 100px;
+  min-height: 90px;
   min-width: 100%;
   background-color: #444;
+  display: flex;
 }
 body {
   margin: 0px;
 }
-<<<<<<< HEAD
-=======
 .main-wrap {
   margin-left: auto;
   margin-right: auto;
@@ -15,4 +14,23 @@ body {
   background-color: #e39;
   height: 1000px;
 }
->>>>>>> fed1f9143e13063e4a4931485e5e1fa62771edb3
+.site-navigation {
+  min-width: 240px;
+  margin-left: auto;
+
+}
+.main-header-basket {
+  min-width: 80px;
+  width:auto;
+}
+.main-header-logo {
+  min-width: 80px;  
+  width:auto;
+}
+.main-navigator {
+  width: 900px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+}
